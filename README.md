@@ -5,8 +5,8 @@
 ✨ **Fun fact: I find vulnerabilities the same way Sherlock finds clues – with precision and style.**
 
 📫 **How to reach me:**  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adantalat20@gmail.com)  
 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adantalat20@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/AdanTalat)
 
 ## 🛠️ My Tech Stack
