@@ -1,5 +1,5 @@
- <h1 align="center"># Hi there 👋, I'm Adan Talat!</h1>
-🚀 **Cybersecurity Enthusiast | Coder | CTF Player**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Adan+Talat!;Cybersecurity+Enthusiast+%7C+Coder+%7C+CTF+Player)](https://git.io/typing-svg)
+
 💻 **Investigating the world of Network Security, Digital Forensics, and Ethical Hacking**  
 🌱 **Learning: C++, Cybersecurity**  
 ✨ **Fun fact: I find vulnerabilities the same way Sherlock finds clues – with precision and style.**
