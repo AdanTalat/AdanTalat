@@ -1,4 +1,4 @@
-+ <h1 align="center"># Hi there 👋, I'm Adan Talat!</h1>
+ <h1 align="center"># Hi there 👋, I'm Adan Talat!</h1>
 🚀 **Cybersecurity Enthusiast | Coder | CTF Player**  
 💻 **Investigating the world of Network Security, Digital Forensics, and Ethical Hacking**  
 🌱 **Learning: C++, Cybersecurity**  
