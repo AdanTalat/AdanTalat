@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adan-talat-523203262/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adantalat20@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/AdanTalat)
-<!---
-AdanTalat/AdanTalat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdanTalat&label=Profile%20views&color=0e75b6&style=flat" alt="AdanTalat" /> </p>
+
