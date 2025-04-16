@@ -11,6 +11,7 @@
 
 ## 🚀 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdanTalat&show_icons=true&theme=algolia)
+
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanTalat&layout=compact&theme=algolia)
 
  <br>
