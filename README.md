@@ -18,6 +18,11 @@
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <br/>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rootxran/count.svg" />
+</p>
+
 <h1>Achievements 🏆</h1>
 <div>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
