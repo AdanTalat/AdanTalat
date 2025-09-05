@@ -26,7 +26,7 @@
 <h1>Achievements 🏆</h1>
 <div>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=AdanTalat&title=Commits,Repositories,MultipleLang&theme=onedark" alt="GitHub Trophies">
+            <img src="https://github-profile-trophy.vercel.app/?username=AdanTalat&title=Commits,Repositories,MultipleLang,Experience&theme=onedark" alt="GitHub Trophies">
         </a>
 </div>
 
